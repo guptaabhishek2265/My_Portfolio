@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { MoveRightIcon } from "lucide-react";
 // import { useNavigate } from "react-router-dom";
 import withSplashScreen from "./withSplashScreen";
-import { IconBrandGitlab, IconBrandTelegram } from "@tabler/icons-react";
+import { IconBrandTelegram } from "@tabler/icons-react";
 import { TextGenerateEffect } from "../components/ui/TextGenerateEffect";
 // import { useState } from "react";
 import { Spotlight } from "./ui/Spotlight";
