@@ -67,16 +67,6 @@ const Home = () => {
             <DockIcon
               onClick={() => {
                 window.open(
-                  "https://gitlab.freedesktop.org/TheJayas",
-                  "_blank"
-                );
-              }}
-            >
-              <IconBrandGitlab className="h-6 w-6" />
-            </DockIcon>
-            <DockIcon
-              onClick={() => {
-                window.open(
                   "https://www.linkedin.com/in/abhishek-kumar-gupta-212a1a28b/",
                   "_blank"
                 );
