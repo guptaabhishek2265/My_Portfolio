@@ -23,6 +23,13 @@ const Experience = () => {
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
+    {
+      id: 3,
+      title: "Software Engineering Job Simulation at Accenture",
+      desc: "Gained hands-on experience in software engineering practices through Accenture's job simulation program, developing real-world problem-solving skills and industry best practices.",
+      className: "md:col-span-2",
+      thumbnail: "/exp1.svg",
+    },
    
   ];
   
